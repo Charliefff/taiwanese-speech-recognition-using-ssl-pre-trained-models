@@ -2,3 +2,5 @@
 # taiwanese-speech-recognition-using-ssl-pre-trained-models-311356003
 taiwanese-speech-recognition-using-ssl-pre-trained-models-311356003 created by GitHub Classroom
 HW2 
+kaggle inclass : https://www.kaggle.com/competitions/deep-learningnycu-2023-wav2vec<br>
+Taiwanese Speech Recognition using Wav2vec+Transformer
